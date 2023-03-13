@@ -1,4 +1,6 @@
-# Getting Started
+# R2LSampleApi
+
+## Getting Started
 
 ### Setup Database
 
@@ -12,4 +14,3 @@
 
 * server port : 8091
 * mysql version : 5.7.36
-* IntelliJ IDEA 2022.3.3
